@@ -2,19 +2,17 @@
 
 # *** SETUP ***
 rm(list=ls())
-# install.packages("data.table")
-# install.packages("doBy")
-# install.packages("plyr")
+install.packages("data.table")
+install.packages("doBy")
+install.packages("plyr")
 install.packages("reshape")
-install.packages("reshape2")
 
 library(doBy)
 library(plyr)
 library(data.table)
-library(reshape2)
 library(reshape)
 
-setwd("/Users/thomaskeane/Documents/GitHub/iic")
+setwd("/Users/thomaskeane/Documents/github/iic")
 iic<-read.csv("iiccase.csv")
 
 plot(iic[iic$Code.Description=="Ablate Bone Tumor(s) Perq",]$Gross.Coll)
@@ -56,6 +54,7 @@ head(sdata)
 
 test01 <- ddply(iic, c("Site.Name", "Doctor.Name.Variable"), summarise,
                N    = length(Code.Description),
+               RVU  = sum(RVU),
                average.charge = mean(Gross.Charges),
                sd.charge = sd(Gross.Charges),
                average.collection = mean(Gross.Coll),
