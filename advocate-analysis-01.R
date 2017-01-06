@@ -20,7 +20,7 @@ iic_clean[,"Site.Name"]<-sub("-.*", "", iic_clean[,"Site.Name"])
 plot(iic[iic$Code.Description=="Ablate Bone Tumor(s) Perq",]$Gross.Coll)
 plot(iic[iic$Code.Description=="X-ray Of Lower Spine Disk",]$Gross.Coll)
 
-cdata <- ddply(iic, c("Code.Description"), summarise,
+code_data <- ddply(iic, c("Code.Description"), summarise,
                N    = length(Code.Description),
                average.charge = mean(Gross.Charges),
                sd.charge = sd(Gross.Charges),
@@ -28,10 +28,10 @@ cdata <- ddply(iic, c("Code.Description"), summarise,
                sd.collection = sd(Gross.Coll),
                tot = sum(Gross.Coll)
 )
-head(cdata)
-# write.csv(as.data.table(cdata), "cdata.csv")
+head(code_data)
+write.csv(as.data.table(code_data), "code_data.csv")
 
-ddata <- ddply(iic, c("Doctor.Name.Variable"), summarise,
+md_data <- ddply(iic, c("Doctor.Name.Variable"), summarise,
                N    = length(Code.Description),
                average.charge = mean(Gross.Charges),
                sd.charge = sd(Gross.Charges),
@@ -40,10 +40,10 @@ ddata <- ddply(iic, c("Doctor.Name.Variable"), summarise,
                tot = sum(Gross.Coll),
                rvus = sum(RVU)
 )
-head(ddata)
-# write.csv(as.data.table(ddata), "ddata.csv")
+head(md_data)
+write.csv(as.data.table(md_data), "md_data.csv")
 
-sdata <- ddply(iic, c("Site.Name"), summarise,
+site_data_expanded<- ddply(iic, c("Site.Name"), summarise,
                N    = length(Code.Description),
                average.charge = mean(Gross.Charges),
                sd.charge = sd(Gross.Charges),
@@ -51,11 +51,12 @@ sdata <- ddply(iic, c("Site.Name"), summarise,
                sd.collection = sd(Gross.Coll),
                collections = sum(Gross.Coll)
 )
-head(sdata)
-# write.csv(as.data.table(sdata), "sdata.csv")
+head(site_data_expanded)
+write.csv(as.data.table(site_data_expanded), "site_data_expanded.csv")
+ 
 
-
-site_data<- ddply(iic_clean, c("Site.Name", "Doctor.Name.Variable"), summarise,
+site_data_collapsed<- ddply(iic_clean, c("Site.Name", "Doctor.Name.Variable"), 
+               summarise,
                N    = length(Code.Description),
                RVU  = sum(RVU),
                average.charge = mean(Gross.Charges),
@@ -64,8 +65,8 @@ site_data<- ddply(iic_clean, c("Site.Name", "Doctor.Name.Variable"), summarise,
                sd.collection = sd(Gross.Coll),
                collections = sum(Gross.Coll)
 )
-head(site_data)
-write.csv(as.data.table(site_data), "site_data.csv")
+head(site_data_collapsed)
+write.csv(as.data.table(site_data_collapsed), "site_data_collapsed.csv")
 
 
 
