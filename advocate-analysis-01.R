@@ -64,10 +64,11 @@ test01 <- ddply(iic, c("Site.Name", "Doctor.Name.Variable"), summarise,
 head(test01)
 write.csv(as.data.table(test01), "test01.csv")
 
-molten.iic<-melt(iic)
-test02<-cast(data=molten.iic, Site.Name~Doctor.Name.Variable)
-head(test02)
-head(test01)
-
-
-
+         
+         
+         
+         
+         
+         
+         
+ ))))
