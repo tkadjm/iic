@@ -64,11 +64,8 @@ test01 <- ddply(iic, c("Site.Name", "Doctor.Name.Variable"), summarise,
 head(test01)
 write.csv(as.data.table(test01), "test01.csv")
 
-         
-         
-         
-         
-         
-         
-         
- ))))
+test02<-test01[1:5,]
+test02[,"Site.Name"]<-sub('-.*','', test02[,"Site.Name"])
+test02
+test01[1:5,]
+identical(test01[1:5,2:9], test02[,2:9])
