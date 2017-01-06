@@ -14,6 +14,8 @@ library(reshape)
 
 setwd("/Users/thomaskeane/Documents/github/iic")
 iic<-read.csv("iiccase.csv")
+iic_clean<-iic
+iic_clean[,"Site.Name"]<-sub("-.*", "", iic_clean[,"Site.Name"])
 
 plot(iic[iic$Code.Description=="Ablate Bone Tumor(s) Perq",]$Gross.Coll)
 plot(iic[iic$Code.Description=="X-ray Of Lower Spine Disk",]$Gross.Coll)
@@ -52,7 +54,8 @@ sdata <- ddply(iic, c("Site.Name"), summarise,
 head(sdata)
 # write.csv(as.data.table(sdata), "sdata.csv")
 
-test01 <- ddply(iic, c("Site.Name", "Doctor.Name.Variable"), summarise,
+
+site_data<- ddply(iic_clean, c("Site.Name", "Doctor.Name.Variable"), summarise,
                N    = length(Code.Description),
                RVU  = sum(RVU),
                average.charge = mean(Gross.Charges),
@@ -61,11 +64,8 @@ test01 <- ddply(iic, c("Site.Name", "Doctor.Name.Variable"), summarise,
                sd.collection = sd(Gross.Coll),
                collections = sum(Gross.Coll)
 )
-head(test01)
-write.csv(as.data.table(test01), "test01.csv")
+head(site_data)
+write.csv(as.data.table(site_data), "site_data.csv")
 
-##### Diversion to remove dashes #######
-test02<-test01[1:5,]
-test02[,"Site.Name"]<-sub('-.*','', test02[,"Site.Name"])
-test02
-identical(test01[1:5,2:9], test02[,2:9])
+
+
