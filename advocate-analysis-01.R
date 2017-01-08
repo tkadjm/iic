@@ -81,9 +81,11 @@ site_data_short<-ddply(site_data_collapsed, c("Site.Name"),
 
 site_data_short<-site_data_short[order(site_data_short$collections),]
 par(mai=c(1,2,1,1))
-barplot(sort(site_data_short$collections), main="Collections by site", 
-        horiz=TRUE, xlab="Site", names.arg =site_data_short$Site.Name, 
-        las=1, cex.names = .65, cex.lab=.5, cex.axis = .75)
+collections_by_site<-barplot(sort(site_data_short$collections), 
+                            main="Collections by site", 
+                            horiz=TRUE, xlab="Site", 
+                            names.arg =site_data_short$Site.Name, 
+                            las=1, cex.names = .65, cex.lab=.5, cex.axis = .75)
 
 
 
