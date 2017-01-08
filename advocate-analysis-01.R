@@ -68,5 +68,21 @@ site_data_collapsed<- ddply(iic_clean, c("Site.Name", "Doctor.Name.Variable"),
 head(site_data_collapsed)
 write.csv(as.data.table(site_data_collapsed), "site_data_collapsed.csv")
 
+site_data_short<-ddply(site_data_collapsed, c("Site.Name"),
+                       summarize,
+                       N    = sum(N),
+                       RVU  = sum(RVU),
+                       sd.charge = sd(average.charge),
+                       average.charge = mean(average.charge),
+                       average.collection = mean(average.collection),
+                       sd.collection = sd(sd.collection),
+                       collections = sum(collections)
+                      )
+
+par(mai=c(1,3,1,1))
+barplot(sort(site_data_short$collections), main="Collections by site", 
+        horiz=TRUE, xlab="Site",names.arg = site_data_short$Site.Name,
+        las=1)
+
 
 

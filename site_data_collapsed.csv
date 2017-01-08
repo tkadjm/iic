@@ -1,186 +1,186 @@
-,Site.Name,Doctor.Name.Variable,N,RVU,average.charge,sd.charge,average.collection,sd.collection,collections
-1,Advocate Christ Med,"Amin, Alkesh A",588,1051,640.56 ,"1,016.82 ",47.07 ,84.13 ,"27,674.39 "
-2,Advocate Christ Med,"Amundson, Gary M",23,14,155.43 ,115.67 ,7.05 ,20.77 ,162.24 
-3,Advocate Christ Med,"Anastos, John",238,708,"1,480.73 ","1,042.54 ",115.67 ,170.59 ,"27,530.58 "
-4,Advocate Christ Med,"Annes, John G",495,1011,733.78 ,"1,381.64 ",46.07 ,100.72 ,"22,803.56 "
-5,Advocate Christ Med,"Chepuri, Neeraj",2,1,539.00 ,0.00 ,16.87 ,23.86 ,33.74 
-6,Advocate Christ Med,"Clark, Steven",1,2,492.00 ,NA,0.00 ,NA,0.00 
-7,Advocate Christ Med,"Cuasay, Nestor S",15,11,212.60 ,228.25 ,0.00 ,0.00 ,0.00 
-8,Advocate Christ Med,"Cube, Cesar",10,12,327.30 ,194.87 ,7.03 ,22.22 ,70.27 
-9,Advocate Christ Med,"Draths, Kathleen Hanson",16,34,921.06 ,433.32 ,64.04 ,59.44 ,"1,024.61 "
-10,Advocate Christ Med,"Facchini, Francis",79,111,516.04 ,756.92 ,27.88 ,69.95 ,"2,202.89 "
-11,Advocate Christ Med,"Gerena, Marielia",15,12,153.73 ,111.51 ,23.79 ,36.67 ,356.83 
-12,Advocate Christ Med,"Groch, John",3,6,346.33 ,252.30 ,0.00 ,0.00 ,0.00 
-13,Advocate Christ Med,"Guajardo, Aaron",1,1,110.00 ,NA,0.00 ,NA,0.00 
-14,Advocate Christ Med,"Guzzetta, Paul",701,1453,981.08 ,"2,285.55 ",34.32 ,104.05 ,"24,056.01 "
-15,Advocate Christ Med,"Holtz, Gerald",10,20,564.70 ,632.71 ,17.69 ,50.15 ,176.85 
-16,Advocate Christ Med,"Jampala, Sadasiva",12,17,300.08 ,198.00 ,4.45 ,15.41 ,53.37 
-17,Advocate Christ Med,"Kapur, Avnit S",104,136,635.65 ,256.56 ,47.22 ,55.58 ,"4,910.39 "
-18,Advocate Christ Med,"Katz, Jeremy R",2,1,130.50 ,98.29 ,0.00 ,0.00 ,0.00 
-19,Advocate Christ Med,"Khurana, Neal",285,456,543.65 ,851.99 ,29.51 ,74.03 ,"8,411.77 "
-20,Advocate Christ Med,"Kim, Thomas A",4,4,195.50 ,110.27 ,0.00 ,0.00 ,0.00 
-21,Advocate Christ Med,"Lai, Jessica",58,154,"1,321.84 ",631.34 ,31.90 ,68.50 ,"1,849.98 "
-22,Advocate Christ Med,"Lapidus, Robert",1,1,539.00 ,NA,17.80 ,NA,17.80 
-23,Advocate Christ Med,"Limpert, Jonathan",9,18,403.33 ,175.94 ,49.78 ,64.19 ,448.02 
-24,Advocate Christ Med,"Messing, Michael",6,7,447.00 ,180.77 ,12.31 ,14.01 ,73.88 
-25,Advocate Christ Med,"Nydick, Steven M",11,8,167.91 ,140.89 ,11.10 ,20.91 ,122.08 
-26,Advocate Christ Med,"Osagiede, Emmanuel",2,3,515.50 ,33.23 ,50.71 ,71.71 ,101.42 
-27,Advocate Christ Med,"Patzik, Shayle",164,247,525.95 ,732.87 ,50.14 ,77.26 ,"8,222.24 "
-28,Advocate Christ Med,"Rahman, Feraz",44,71,597.34 ,914.08 ,0.00 ,0.00 ,0.00 
-29,Advocate Christ Med,"Rajmane, Kiran",41,87,939.63 ,970.52 ,61.83 ,69.01 ,"2,535.17 "
-30,Advocate Christ Med,"Rezai, Pedram",10,19,435.00 ,281.39 ,0.00 ,0.00 ,0.00 
-31,Advocate Christ Med,"Sehgal, Vivek",1,1,110.00 ,NA,0.00 ,NA,0.00 
-32,Advocate Christ Med,"Sewall, Luke",45,79,709.56 ,898.44 ,43.72 ,95.05 ,"1,967.35 "
-33,Advocate Christ Med,"Shakir, Naseem",62,37,152.53 ,108.42 ,13.82 ,30.52 ,857.14 
-34,Advocate Christ Med,"Sichlau, Michael",73,118,591.90 ,902.81 ,14.29 ,48.09 ,"1,043.07 "
-35,Advocate Christ Med,"Stears, Robert",4,8,391.50 ,187.90 ,0.00 ,0.00 ,0.00 
-36,Advocate Christ Med,"Vlahos, Athanasios",223,380,644.97 ,930.34 ,35.56 ,92.06 ,"7,929.94 "
-37,Advocate Christ Med,"Wilbur, Michael",4,2,225.50 ,216.54 ,0.00 ,0.00 ,0.00 
-38,Advocate Ctr Breast Care,"Anastos, John",17,47,"1,422.47 ",493.28 ,0.00 ,0.00 ,0.00 
-39,Advocate Ctr Breast Care,"Guajardo, Aaron",1,3,"1,625.00 ",NA,0.00 ,NA,0.00 
-40,Advocate Ctr Breast Care,"Lai, Jessica",85,223,"1,401.62 ",449.51 ,93.07 ,124.20 ,"7,911.23 "
-41,Advocate Ctr Breast Care,"Rajmane, Kiran",10,28,"1,556.00 ",128.15 ,51.08 ,70.95 ,510.81 
-42,Advocate Good Shepherd,"Anderson, Christine",2,1,93.00 ,0.00 ,14.23 ,20.12 ,28.46 
-43,Advocate Good Shepherd,"Asselmeier, Scott G",3352,7694,"1,050.64 ","2,845.09 ",129.88 ,189.75 ,"435,344.89 "
-44,Advocate Good Shepherd,"Campbell, Maibritt",8,6,129.38 ,93.50 ,40.39 ,24.86 ,323.12 
-45,Advocate Good Shepherd,"Goesel, Christopher L",133,109,190.34 ,168.97 ,47.15 ,34.88 ,"6,270.79 "
-46,Advocate Good Shepherd,"Gorelick, Gleb",6,9,573.67 ,380.93 ,85.04 ,47.35 ,510.22 
-47,Advocate Good Shepherd,"Herwick, Steven",5,3,181.60 ,122.36 ,32.11 ,44.58 ,160.53 
-48,Advocate Good Shepherd,"Kirshenbaum, Kevin",6,6,248.33 ,319.13 ,63.55 ,24.46 ,381.30 
-49,Advocate Good Shepherd,"Kirshenbaum, Myron",13,12,138.62 ,143.16 ,32.31 ,26.74 ,420.02 
-50,Advocate Good Shepherd,"Lewin, David S",4,3,185.50 ,96.42 ,110.14 ,97.06 ,440.54 
-51,Advocate Good Shepherd,"Montalbano, Catherine B",86,50,131.40 ,112.18 ,30.01 ,25.71 ,"2,581.03 "
-52,Advocate Good Shepherd,"Nadimpalli, Suryaprakasharao",4,3,265.50 ,288.53 ,77.63 ,48.39 ,310.52 
-53,Advocate Good Shepherd,"Patel, Smitesh R",585,880,485.87 ,760.39 ,87.06 ,119.70 ,"50,932.63 "
-54,Advocate Good Shepherd,"Prabhakar, Naveen",214,423,750.91 ,"1,100.10 ",114.70 ,137.31 ,"24,546.73 "
-55,Advocate Good Shepherd,"Preethi, Sri Gunnala",56,58,249.38 ,307.39 ,70.84 ,69.66 ,"3,967.17 "
-56,Advocate Good Shepherd,"Saker, Mark",140,318,779.59 ,"1,379.45 ",110.52 ,153.10 ,"15,473.16 "
-57,Advocate Good Shepherd,"Shah, Sanket",14,12,262.71 ,203.59 ,15.51 ,28.27 ,217.08 
-58,Advocate Good Shepherd,"Vanduyn, Vanessa Wear",1,0,88.00 ,NA,0.00 ,NA,0.00 
-59,Advocate Good Shepherd,"Waxler, Donald",466,456,198.44 ,132.45 ,59.66 ,45.91 ,"27,799.58 "
-60,Advocate Good Shepherd,"Weiss, Joshua A",138,110,198.49 ,152.44 ,48.55 ,41.68 ,"6,699.52 "
-61,Advocate Good Shepherd,"Zuiderveld, Loren",15,12,139.27 ,130.24 ,29.11 ,28.44 ,436.71 
-62,Advocate Masonic Med,"Anderson, Christine",11,9,158.91 ,126.55 ,35.49 ,51.55 ,390.35 
-63,Advocate Masonic Med,"Asselmeier, Scott G",9,32,"1,167.78 ",830.27 ,43.86 ,93.01 ,394.74 
-64,Advocate Masonic Med,"Campbell, Maibritt",258,213,195.28 ,111.08 ,53.08 ,43.37 ,"13,694.24 "
-65,Advocate Masonic Med,"Chojnacki, Anna",35,31,314.26 ,273.96 ,37.24 ,32.89 ,"1,303.48 "
-66,Advocate Masonic Med,"Goesel, Christopher L",3,4,313.00 ,202.64 ,53.73 ,31.63 ,161.20 
-67,Advocate Masonic Med,"Gorelick, Gleb",111,114,241.62 ,180.86 ,60.53 ,45.69 ,"6,719.27 "
-68,Advocate Masonic Med,"Herwick, Steven",192,158,193.08 ,110.78 ,53.19 ,52.77 ,"10,213.00 "
-69,Advocate Masonic Med,"Kirshenbaum, Kevin",27,27,239.41 ,215.65 ,48.11 ,32.95 ,"1,298.84 "
-70,Advocate Masonic Med,"Kirshenbaum, Myron",9,5,377.44 ,218.68 ,33.53 ,14.77 ,301.73 
-71,Advocate Masonic Med,"Lewin, David S",125,96,263.02 ,168.99 ,51.02 ,47.54 ,"6,377.53 "
-72,Advocate Masonic Med,"Nadimpalli, Suryaprakasharao",174,176,237.95 ,185.50 ,53.62 ,52.33 ,"9,329.56 "
-73,Advocate Masonic Med,"Patel, Smitesh R",22,39,464.41 ,749.69 ,96.57 ,143.63 ,"2,124.43 "
-74,Advocate Masonic Med,"Patil, Abhijit",2,2,195.50 ,135.06 ,0.00 ,0.00 ,0.00 
-75,Advocate Masonic Med,"Prabhakar, Naveen",1876,4028,754.77 ,"1,382.91 ",109.88 ,297.11 ,"206,139.43 "
-76,Advocate Masonic Med,"Saker, Mark",1348,2425,608.64 ,"1,057.42 ",95.57 ,143.46 ,"128,827.31 "
-77,Advocate Masonic Med,"Shah, Sanket",3,2,523.00 ,0.00 ,30.31 ,26.52 ,90.93 
-78,Advocate Masonic Med,"Vanduyn, Vanessa Wear",56,59,329.29 ,291.91 ,38.80 ,50.39 ,"2,172.97 "
-79,Advocate Masonic Med,"Weiss, Joshua A",5,3,280.80 ,226.64 ,47.05 ,44.14 ,235.27 
-80,Advocate Masonic Med,"Zuiderveld, Loren",206,161,252.03 ,166.74 ,48.74 ,38.20 ,"10,041.41 "
-81,Advocate S Suburban,"Acosta, Katrina",1,1,539.00 ,NA,27.21 ,NA,27.21 
-82,Advocate S Suburban,"Allam, Talha S",4,3,264.25 ,293.73 ,0.00 ,0.00 ,0.00 
-83,Advocate S Suburban,"Amin, Alkesh A",314,660,811.69 ,"1,569.38 ",68.71 ,129.74 ,"21,575.86 "
-84,Advocate S Suburban,"Anastos, John",5,6,342.00 ,219.99 ,38.41 ,52.72 ,192.03 
-85,Advocate S Suburban,"Annes, John G",233,478,908.55 ,"2,208.98 ",64.85 ,155.86 ,"15,109.54 "
-86,Advocate S Suburban,"Chepuri, Neeraj",1,0,75.00 ,NA,0.00 ,NA,0.00 
-87,Advocate S Suburban,"Cuasay, Nestor S",1,1,110.00 ,NA,0.00 ,NA,0.00 
-88,Advocate S Suburban,"Groch, John",1,1,539.00 ,NA,0.00 ,NA,0.00 
-89,Advocate S Suburban,"Guajardo, Aaron",32,31,305.97 ,306.88 ,26.56 ,44.20 ,849.88 
-90,Advocate S Suburban,"Guzzetta, Paul",168,382,888.15 ,"2,109.24 ",19.25 ,69.48 ,"3,233.18 "
-91,Advocate S Suburban,"Holtz, Gerald",1,1,539.00 ,NA,27.21 ,NA,27.21 
-92,Advocate S Suburban,"Jampala, Sadasiva",1,1,110.00 ,NA,0.00 ,NA,0.00 
-93,Advocate S Suburban,"Kapur, Avnit S",2,4,655.00 ,230.52 ,55.90 ,79.05 ,111.79 
-94,Advocate S Suburban,"Lai, Jessica",45,75,943.36 ,493.71 ,67.36 ,54.71 ,"3,031.12 "
-95,Advocate S Suburban,"Limpert, Jonathan",2,5,492.00 ,0.00 ,50.71 ,71.71 ,101.42 
-96,Advocate S Suburban,"Meyer, Karen",5,3,123.00 ,71.49 ,18.28 ,22.48 ,91.40 
-97,Advocate S Suburban,"Mohazab, Hamid",2,2,195.50 ,135.06 ,66.95 ,44.07 ,133.89 
-98,Advocate S Suburban,"Nydick, Steven M",32,30,206.44 ,146.03 ,28.91 ,34.28 ,925.16 
-99,Advocate S Suburban,"Osagiede, Emmanuel",1,2,492.00 ,NA,0.00 ,NA,0.00 
-100,Advocate S Suburban,"Rajmane, Kiran",5,6,653.20 ,151.30 ,0.00 ,0.00 ,0.00 
-101,Advocate S Suburban,"Singh, Bhurji N",2,2,180.50 ,137.89 ,60.28 ,28.96 ,120.56 
-102,Advocate Sherman Hosp,"Grossman, Stephan",398,617,706.95 ,699.23 ,93.48 ,139.03 ,"37,206.79 "
-103,Advocate Sherman Hosp,"Gvildys, Dalia",280,363,542.97 ,666.48 ,76.48 ,104.48 ,"21,413.34 "
-104,Advocate Sherman Hosp,"Mehta, Ajay",113,94,198.68 ,252.38 ,43.43 ,50.03 ,"4,907.44 "
-105,Advocate Sherman Hosp,"Raju, Subba",141,101,171.76 ,166.55 ,29.10 ,112.37 ,"4,102.50 "
-106,Advocate Sherman Hosp,"Roberts, Wesley",375,640,774.43 ,688.22 ,116.13 ,163.69 ,"43,550.29 "
-107,Advocate Sherman Hosp,"Sampaleanu, Dana",24,15,94.21 ,30.17 ,29.70 ,13.89 ,712.79 
-108,Advocate Sherman Hosp,"Singh, Amitabh",46,35,213.87 ,350.75 ,38.20 ,47.36 ,"1,757.07 "
-109,Advocate Sherman Hosp,"Yang, Gongyu",302,217,152.73 ,135.00 ,37.70 ,42.00 ,"11,384.71 "
-110,Amg Evergreen,"Rowley, Vincent",1,1,94.00 ,NA,53.67 ,NA,53.67 
-111,Amg Irving & Western,"Goesel, Christopher L",1,1,94.00 ,NA,43.56 ,NA,43.56 
-112,Condell Medical Center,"Alexander, Jonathan M",210,340,705.48 ,640.82 ,86.50 ,96.95 ,"18,164.19 "
-113,Condell Medical Center,"Coury, Christopher A",207,209,235.73 ,173.97 ,44.84 ,48.17 ,"9,282.59 "
-114,Condell Medical Center,"Foosaner, David E",687,1141,504.81 ,696.97 ,88.36 ,119.31 ,"60,705.59 "
-115,Condell Medical Center,"Han, Phyllis H",357,533,529.02 ,539.25 ,79.69 ,102.02 ,"28,450.77 "
-116,Condell Medical Center,"Kim, Daniel Y",195,209,259.43 ,238.41 ,51.85 ,51.54 ,"10,111.49 "
-117,Condell Medical Center,"Manquen/jr, Louis J",382,738,930.42 ,638.20 ,110.55 ,153.27 ,"42,229.20 "
-118,Condell Medical Center,"Oberhaus, Jasmina P",410,578,481.85 ,502.65 ,79.27 ,100.14 ,"32,502.60 "
-119,Condell Medical Center,"Papesch, James M",215,240,264.43 ,172.36 ,58.70 ,61.68 ,"12,621.21 "
-120,Condell Medical Center,"Patzik, Shayle",1998,4492,814.40 ,"1,323.37 ",119.42 ,186.94 ,"238,597.40 "
-121,Condell Medical Center,"Shah, Jai D",1778,4124,809.43 ,"1,433.09 ",114.53 ,189.36 ,"203,643.12 "
-122,Condell Medical Center,"Zartaisky, Alexander",123,121,253.42 ,183.42 ,49.50 ,56.82 ,"6,089.00 "
-123,Good Samaritan Hosp,"Bhorade, Rajeev",1390,2281,599.95 ,"1,045.23 ",88.24 ,123.72 ,"122,649.52 "
-124,Good Samaritan Hosp,"Burstein, Scott",943,1883,964.79 ,"1,887.64 ",118.08 ,168.92 ,"111,349.48 "
-125,Good Samaritan Hosp,"Fanapour, Susan",330,503,700.64 ,678.46 ,89.58 ,110.52 ,"29,560.38 "
-126,Good Samaritan Hosp,"Hampole, Ashwin V",27,29,280.63 ,251.18 ,58.68 ,63.66 ,"1,584.39 "
-127,Good Samaritan Hosp,"Ibrahim, Saad",1059,1910,737.51 ,"1,398.70 ",98.04 ,149.41 ,"103,819.38 "
-128,Good Samaritan Hosp,"Jajko, Robert",1327,2363,748.26 ,"1,353.54 ",102.11 ,146.68 ,"135,501.47 "
-129,Good Samaritan Hosp,"Kim, Josie",626,1272,"1,039.35 ",673.27 ,125.90 ,149.79 ,"78,816.29 "
-130,Good Samaritan Hosp,"Kuppuswami, Sivaraja",2,1,71.50 ,23.33 ,19.50 ,27.57 ,38.99 
-131,Good Samaritan Hosp,"Lopez, Liza",111,81,216.65 ,155.46 ,55.16 ,57.29 ,"6,122.22 "
-132,Good Samaritan Hosp,"Schultz, Kurt",110,89,185.28 ,155.36 ,38.40 ,34.54 ,"4,224.04 "
-133,Good Samaritan Hosp,"Sibai, Sami",18,9,93.94 ,35.63 ,19.35 ,18.72 ,348.23 
-134,Good Samaritan Hosp,"Siddiqi, Aheed",84,66,187.57 ,163.62 ,39.79 ,42.62 ,"3,342.00 "
-135,Good Samaritan Hosp,"Singh, Bhurji",10,5,104.10 ,36.79 ,27.08 ,34.97 ,270.82 
-136,Good Samaritan Hosp,"Tresley, Jonathan M",55,88,681.84 ,657.85 ,56.64 ,69.00 ,"3,114.98 "
-137,Lutheran Gen Caldwell,"Anastos, John",1,2,492.00 ,NA,143.36 ,NA,143.36 
-138,Lutheran Gen Caldwell,"Bhole, Sonya",11,34,"1,739.36 ",359.51 ,159.21 ,97.38 ,"1,751.28 "
-139,Lutheran Gen Caldwell,"Devries, Maria",8,22,"1,637.88 ",355.81 ,156.44 ,91.22 ,"1,251.53 "
-140,Lutheran Gen Caldwell,"Fagin, Brandie",2,6,"1,614.00 ",0.00 ,154.98 ,67.47 ,309.95 
-141,Lutheran Gen Caldwell,"Jenkins, Richard",2,5,492.00 ,0.00 ,127.29 ,0.00 ,254.58 
-142,Lutheran Gen Caldwell,"Messersmith, Richard",2,4,696.00 ,288.50 ,131.87 ,66.93 ,263.74 
-143,Lutheran Gen Caldwell,"Okrent, David",1,1,195.00 ,NA,79.44 ,NA,79.44 
-144,Lutheran Gen Caldwell,"Park, Hong",2,4,482.00 ,14.14 ,92.19 ,39.94 ,184.38 
-145,Lutheran Gen Caldwell,"Strimling, Bradley",3,6,673.00 ,91.80 ,241.50 ,254.80 ,724.49 
-146,Lutheran General Hosp,"Alsheik, Nila H",120,327,"1,444.61 ",482.18 ,100.74 ,101.73 ,"12,088.60 "
-147,Lutheran General Hosp,"Anastos, John",186,335,859.91 ,680.10 ,122.87 ,177.42 ,"22,853.85 "
-148,Lutheran General Hosp,"Bhole, Sonya",684,1705,"1,344.88 ",566.14 ,166.33 ,150.15 ,"113,768.73 "
-149,Lutheran General Hosp,"Devries, Maria",569,1336,"1,214.73 ",607.97 ,136.22 ,142.36 ,"77,510.25 "
-150,Lutheran General Hosp,"Dines, Marshall L",779,1505,681.52 ,915.01 ,48.37 ,97.94 ,"37,682.92 "
-151,Lutheran General Hosp,"Dombrowski, Paul",148,109,206.07 ,120.37 ,47.82 ,37.07 ,"7,076.70 "
-152,Lutheran General Hosp,"Fagin, Brandie",421,1068,"1,369.39 ",508.45 ,162.96 ,161.96 ,"68,607.09 "
-153,Lutheran General Hosp,"Geremia, Glen",556,834,359.27 ,208.49 ,81.26 ,68.78 ,"45,179.19 "
-154,Lutheran General Hosp,"Gnegy, Richard",8,6,172.63 ,143.89 ,42.14 ,26.63 ,337.15 
-155,Lutheran General Hosp,"Jenkins, Richard",3162,6427,760.17 ,"1,215.54 ",112.48 ,170.25 ,"355,660.02 "
-156,Lutheran General Hosp,"Laurent, Elisa",206,128,154.29 ,95.46 ,42.38 ,44.07 ,"8,729.97 "
-157,Lutheran General Hosp,"Mcfadden, John",286,175,137.60 ,70.32 ,46.88 ,46.83 ,"13,406.54 "
-158,Lutheran General Hosp,"Messersmith, Richard",2393,4757,753.39 ,"1,153.83 ",113.47 ,168.53 ,"271,526.14 "
-159,Lutheran General Hosp,"Michael, Alexander",309,474,362.91 ,205.68 ,85.55 ,64.62 ,"26,435.08 "
-160,Lutheran General Hosp,"Okrent, David",153,116,208.09 ,123.48 ,56.08 ,52.52 ,"8,580.97 "
-161,Lutheran General Hosp,"Okuno, William",199,150,207.27 ,128.93 ,49.78 ,55.84 ,"9,905.77 "
-162,Lutheran General Hosp,"Park, Hong",3504,6805,710.17 ,"1,065.63 ",103.12 ,155.61 ,"361,344.85 "
-163,Lutheran General Hosp,"Phillips, John",152,120,230.05 ,214.95 ,52.52 ,45.99 ,"7,982.45 "
-164,Lutheran General Hosp,"Rabin, Barry",485,704,550.02 ,883.94 ,116.63 ,280.00 ,"56,567.77 "
-165,Lutheran General Hosp,"Siegfried, Michael",226,142,148.62 ,96.96 ,45.26 ,47.25 ,"10,229.32 "
-166,Lutheran General Hosp,"Strimling, Bradley",990,1937,"1,565.14 ","4,766.98 ",133.67 ,124.76 ,"132,337.30 "
-167,Silver Cross Hospital,"Edwards, Andre",128,305,530.88 ,233.00 ,97.83 ,93.25 ,"12,521.89 "
-168,Silver Cross Hospital,"Guajardo/jr, Aaron",1,2,459.00 ,NA,0.00 ,NA,0.00 
-169,Silver Cross Hospital,"Iqbal, Nasir",164,240,297.80 ,119.15 ,86.04 ,70.97 ,"14,111.10 "
-170,Silver Cross Hospital,"Keblinskas, Darius A",74,164,462.84 ,286.04 ,108.21 ,103.41 ,"8,007.70 "
-171,Silver Cross Hospital,"Merchant, Monish",213,597,589.30 ,438.04 ,80.76 ,179.54 ,"17,202.73 "
-172,Silver Cross Hospital,"Patel, Nisha V",54,55,225.70 ,73.26 ,5.41 ,23.24 ,292.30 
-173,Silver Cross Hospital,"Patel, Vinodrai M",33,40,242.97 ,88.46 ,82.45 ,83.80 ,"2,720.85 "
-174,Silver Cross Hospital,"Rana, Kuntal",15,25,340.53 ,138.94 ,21.53 ,34.81 ,322.93 
-175,Silver Cross Hospital,"Singleton, Edward L",138,409,605.47 ,382.50 ,154.05 ,154.35 ,"21,258.39 "
-176,Silver Cross Hospital,"Tyler, Jeffry A",85,213,561.29 ,204.01 ,117.12 ,143.16 ,"9,955.02 "
-177,Silver Cross Hospital,"Vyas, Ashish",191,477,523.88 ,403.77 ,83.16 ,154.53 ,"15,882.61 "
-178,Trinity Hospital,"Bauer, Richard",67,73,433.61 ,299.36 ,60.81 ,44.50 ,"4,074.42 "
-179,Trinity Hospital,"Kim, Howard",218,464,980.94 ,679.40 ,123.32 ,153.86 ,"26,884.80 "
-180,Trinity Hospital,"Lapat, Kenneth",51,53,278.88 ,180.02 ,50.67 ,47.85 ,"2,583.93 "
-181,Trinity Hospital,"Mintz, Ari",320,660,995.93 ,689.10 ,109.56 ,108.98 ,"35,060.44 "
-182,Trinity Hospital,"Mohiuddin, Salman",58,118,955.05 ,706.30 ,77.00 ,86.50 ,"4,466.06 "
-183,Trinity Hospital,"Petrovic, Polina",1,1,500.00 ,NA,81.38 ,NA,81.38 
-184,Trinity Hospital,"Rowley, Vincent",202,400,845.95 ,693.36 ,92.18 ,100.47 ,"18,621.07 "
-185,Trinity Hospital,"Velan, Prabhu",73,183,"1,204.85 ",626.29 ,148.26 ,158.85 ,"10,822.92 "
+"","Site.Name","Doctor.Name.Variable","N","RVU","average.charge","sd.charge","average.collection","sd.collection","collections"
+"1","Advocate Christ Med","Amin, Alkesh A",588,1051.42,640.561224489796,1016.81849818706,47.0652891156463,84.1325274667303,27674.39
+"2","Advocate Christ Med","Amundson, Gary M",23,13.63,155.434782608696,115.668344882708,7.05391304347826,20.7749667408399,162.24
+"3","Advocate Christ Med","Anastos, John",238,707.5,1480.7268907563,1042.5378910191,115.674705882353,170.586682640284,27530.58
+"4","Advocate Christ Med","Annes, John G",495,1011.39,733.781818181818,1381.64264030129,46.067797979798,100.722437888135,22803.56
+"5","Advocate Christ Med","Chepuri, Neeraj",2,1.24,539,0,16.87,23.8577827972341,33.74
+"6","Advocate Christ Med","Clark, Steven",1,2.4,492,NA,0,NA,0
+"7","Advocate Christ Med","Cuasay, Nestor S",15,10.5,212.6,228.251991072524,0,0,0
+"8","Advocate Christ Med","Cube, Cesar",10,11.69,327.3,194.868075031973,7.027,22.2213251180032,70.27
+"9","Advocate Christ Med","Draths, Kathleen Hanson",16,33.57,921.0625,433.321661701789,64.038125,59.4374819137722,1024.61
+"10","Advocate Christ Med","Facchini, Francis",79,110.86,516.037974683544,756.92218282141,27.8846835443038,69.9542757226873,2202.89
+"11","Advocate Christ Med","Gerena, Marielia",15,11.74,153.733333333333,111.510067877727,23.7886666666667,36.6730227564519,356.83
+"12","Advocate Christ Med","Groch, John",3,5.5,346.333333333333,252.302067635866,0,0,0
+"13","Advocate Christ Med","Guajardo, Aaron",1,0.7,110,NA,0,NA,0
+"14","Advocate Christ Med","Guzzetta, Paul",701,1452.89,981.079885877318,2285.54795415716,34.3167047075606,104.045163312366,24056.01
+"15","Advocate Christ Med","Holtz, Gerald",10,20.17,564.7,632.713565174286,17.685,50.1545206226606,176.85
+"16","Advocate Christ Med","Jampala, Sadasiva",12,17.22,300.083333333333,198.001128708139,4.4475,15.4065919333252,53.37
+"17","Advocate Christ Med","Kapur, Avnit S",104,136.47,635.653846153846,256.563577511407,47.2152884615385,55.5798767446016,4910.39
+"18","Advocate Christ Med","Katz, Jeremy R",2,1.2,130.5,98.2878425849301,0,0,0
+"19","Advocate Christ Med","Khurana, Neal",285,455.67,543.649122807018,851.987648922495,29.5149824561404,74.0311358632325,8411.77
+"20","Advocate Christ Med","Kim, Thomas A",4,3.94,195.5,110.273901415219,0,0,0
+"21","Advocate Christ Med","Lai, Jessica",58,153.5,1321.84482758621,631.344730303143,31.8962068965517,68.5006533923912,1849.98
+"22","Advocate Christ Med","Lapidus, Robert",1,0.62,539,NA,17.8,NA,17.8
+"23","Advocate Christ Med","Limpert, Jonathan",9,17.56,403.333333333333,175.942462185795,49.78,64.194667029279,448.02
+"24","Advocate Christ Med","Messing, Michael",6,7.13,447,180.774998271332,12.3133333333333,14.0070834461235,73.88
+"25","Advocate Christ Med","Nydick, Steven M",11,7.52,167.909090909091,140.888221328438,11.0981818181818,20.9092500191575,122.08
+"26","Advocate Christ Med","Osagiede, Emmanuel",2,3.02,515.5,33.2340187157677,50.71,71.7147697479397,101.42
+"27","Advocate Christ Med","Patzik, Shayle",164,246.7,525.94512195122,732.873613364707,50.1356097560976,77.2613806352354,8222.24
+"28","Advocate Christ Med","Rahman, Feraz",44,71.14,597.340909090909,914.076658104876,0,0,0
+"29","Advocate Christ Med","Rajmane, Kiran",41,87.34,939.634146341463,970.523512237018,61.8334146341463,69.0063320866193,2535.17
+"30","Advocate Christ Med","Rezai, Pedram",10,18.69,435,281.389804758847,0,0,0
+"31","Advocate Christ Med","Sehgal, Vivek",1,0.7,110,NA,0,NA,0
+"32","Advocate Christ Med","Sewall, Luke",45,79.23,709.555555555556,898.438229665931,43.7188888888889,95.0473629595033,1967.35
+"33","Advocate Christ Med","Shakir, Naseem",62,37.2,152.532258064516,108.422929905273,13.8248387096774,30.5202823044082,857.14
+"34","Advocate Christ Med","Sichlau, Michael",73,118.31,591.904109589041,902.809660085662,14.2886301369863,48.0939094179025,1043.07
+"35","Advocate Christ Med","Stears, Robert",4,7.5,391.5,187.903343947538,0,0,0
+"36","Advocate Christ Med","Vlahos, Athanasios",223,379.87,644.968609865471,930.336011129751,35.560269058296,92.0598818333509,7929.94
+"37","Advocate Christ Med","Wilbur, Michael",4,2.21,225.5,216.540219512835,0,0,0
+"38","Advocate Ctr Breast Care","Anastos, John",17,47.03,1422.47058823529,493.278967427036,0,0,0
+"39","Advocate Ctr Breast Care","Guajardo, Aaron",1,3.29,1625,NA,0,NA,0
+"40","Advocate Ctr Breast Care","Lai, Jessica",85,222.59,1401.62352941176,449.513890258148,93.0732941176471,124.198288092912,7911.23
+"41","Advocate Ctr Breast Care","Rajmane, Kiran",10,28.48,1556,128.150952656103,51.081,70.9464255539974,510.81
+"42","Advocate Good Shepherd","Anderson, Christine",2,0.76,93,0,14.23,20.1242589925691,28.46
+"43","Advocate Good Shepherd","Asselmeier, Scott G",3352,7694.34,1050.63588902148,2845.09262671122,129.876160501193,189.752162474313,435344.89
+"44","Advocate Good Shepherd","Campbell, Maibritt",8,6.03,129.375,93.4970396781172,40.39,24.8635424438502,323.12
+"45","Advocate Good Shepherd","Goesel, Christopher L",133,109.12,190.338345864662,168.969375350488,47.1487969924812,34.8798314571788,6270.79
+"46","Advocate Good Shepherd","Gorelick, Gleb",6,8.78,573.666666666667,380.925539530584,85.0366666666667,47.3499003870828,510.22
+"47","Advocate Good Shepherd","Herwick, Steven",5,3.18,181.6,122.355220567003,32.106,44.5754464924357,160.53
+"48","Advocate Good Shepherd","Kirshenbaum, Kevin",6,5.65,248.333333333333,319.131112031821,63.55,24.4575918683749,381.3
+"49","Advocate Good Shepherd","Kirshenbaum, Myron",13,11.58,138.615384615385,143.159898051991,32.3092307692308,26.7353338179828,420.02
+"50","Advocate Good Shepherd","Lewin, David S",4,3.08,185.5,96.4174949546675,110.135,97.0582129446035,440.54
+"51","Advocate Good Shepherd","Montalbano, Catherine B",86,49.91,131.395348837209,112.175102519102,30.011976744186,25.7067274243541,2581.03
+"52","Advocate Good Shepherd","Nadimpalli, Suryaprakasharao",4,3.47,265.5,288.53364910642,77.63,48.3928472676145,310.52
+"53","Advocate Good Shepherd","Patel, Smitesh R",585,879.6,485.866666666667,760.386178021423,87.0643247863248,119.697837467722,50932.63
+"54","Advocate Good Shepherd","Prabhakar, Naveen",214,423.14,750.913551401869,1100.09626904967,114.704345794393,137.30878412344,24546.73
+"55","Advocate Good Shepherd","Preethi, Sri Gunnala",56,58.19,249.375,307.390812100226,70.8423214285714,69.6605425028094,3967.17
+"56","Advocate Good Shepherd","Saker, Mark",140,318.06,779.585714285714,1379.45073515864,110.522571428571,153.097506675239,15473.16
+"57","Advocate Good Shepherd","Shah, Sanket",14,12.46,262.714285714286,203.593270468893,15.5057142857143,28.2676819311072,217.08
+"58","Advocate Good Shepherd","Vanduyn, Vanessa Wear",1,0.36,88,NA,0,NA,0
+"59","Advocate Good Shepherd","Waxler, Donald",466,455.55,198.442060085837,132.446288043086,59.6557510729614,45.9147170630841,27799.58
+"60","Advocate Good Shepherd","Weiss, Joshua A",138,109.75,198.485507246377,152.440450764562,48.5472463768116,41.6844609106716,6699.52
+"61","Advocate Good Shepherd","Zuiderveld, Loren",15,11.56,139.266666666667,130.237950726829,29.114,28.4376096041844,436.71
+"62","Advocate Masonic Med","Anderson, Christine",11,8.75,158.909090909091,126.54521290468,35.4863636363636,51.547333058603,390.35
+"63","Advocate Masonic Med","Asselmeier, Scott G",9,32.3,1167.77777777778,830.269049431836,43.86,93.0128561006488,394.74
+"64","Advocate Masonic Med","Campbell, Maibritt",258,213.36,195.279069767442,111.083764569276,53.0784496124031,43.3707303432307,13694.24
+"65","Advocate Masonic Med","Chojnacki, Anna",35,30.94,314.257142857143,273.963001243635,37.2422857142857,32.8866436401766,1303.48
+"66","Advocate Masonic Med","Goesel, Christopher L",3,3.66,313,202.635140091742,53.7333333333333,31.6298361256162,161.2
+"67","Advocate Masonic Med","Gorelick, Gleb",111,113.56,241.621621621622,180.855092875939,60.533963963964,45.6870217155272,6719.27
+"68","Advocate Masonic Med","Herwick, Steven",192,157.96,193.078125,110.782599899285,53.1927083333333,52.7745354364421,10213
+"69","Advocate Masonic Med","Kirshenbaum, Kevin",27,26.86,239.407407407407,215.652009436011,48.1051851851852,32.9541280675905,1298.84
+"70","Advocate Masonic Med","Kirshenbaum, Myron",9,4.5,377.444444444444,218.677908755726,33.5255555555556,14.767687793889,301.73
+"71","Advocate Masonic Med","Lewin, David S",125,95.66,263.024,168.985801274125,51.02024,47.5374978724606,6377.53
+"72","Advocate Masonic Med","Nadimpalli, Suryaprakasharao",174,176.18,237.954022988506,185.50122122565,53.6181609195402,52.3277984021454,9329.56
+"73","Advocate Masonic Med","Patel, Smitesh R",22,39.07,464.409090909091,749.686897126356,96.565,143.633719139377,2124.43
+"74","Advocate Masonic Med","Patil, Abhijit",2,1.97,195.5,135.057395206631,0,0,0
+"75","Advocate Masonic Med","Prabhakar, Naveen",1876,4028.39,754.765991471215,1382.90715663687,109.882425373134,297.108107366787,206139.43
+"76","Advocate Masonic Med","Saker, Mark",1348,2424.75,608.63649851632,1057.41760132007,95.5692210682493,143.462494130124,128827.31
+"77","Advocate Masonic Med","Shah, Sanket",3,1.56,523,0,30.31,26.5207145454266,90.93
+"78","Advocate Masonic Med","Vanduyn, Vanessa Wear",56,58.5,329.285714285714,291.912546946744,38.8030357142857,50.3854057484413,2172.97
+"79","Advocate Masonic Med","Weiss, Joshua A",5,2.61,280.8,226.637816791461,47.054,44.1387814738921,235.27
+"80","Advocate Masonic Med","Zuiderveld, Loren",206,160.59,252.033980582524,166.744506797089,48.7447087378641,38.201593424341,10041.41
+"81","Advocate S Suburban","Acosta, Katrina",1,0.62,539,NA,27.21,NA,27.21
+"82","Advocate S Suburban","Allam, Talha S",4,3.34,264.25,293.725920998925,0,0,0
+"83","Advocate S Suburban","Amin, Alkesh A",314,660.03,811.694267515924,1569.37900932793,68.7129299363057,129.736665700837,21575.86
+"84","Advocate S Suburban","Anastos, John",5,6.4,342,219.992045310734,38.406,52.7193482509031,192.03
+"85","Advocate S Suburban","Annes, John G",233,477.61,908.549356223176,2208.97593850791,64.8478111587983,155.863533770451,15109.54
+"86","Advocate S Suburban","Chepuri, Neeraj",1,0.25,75,NA,0,NA,0
+"87","Advocate S Suburban","Cuasay, Nestor S",1,0.7,110,NA,0,NA,0
+"88","Advocate S Suburban","Groch, John",1,0.62,539,NA,0,NA,0
+"89","Advocate S Suburban","Guajardo, Aaron",32,31.2,305.96875,306.882922340416,26.55875,44.2042952773567,849.88
+"90","Advocate S Suburban","Guzzetta, Paul",168,381.89,888.154761904762,2109.23756406286,19.245119047619,69.4794928948094,3233.18
+"91","Advocate S Suburban","Holtz, Gerald",1,0.62,539,NA,27.21,NA,27.21
+"92","Advocate S Suburban","Jampala, Sadasiva",1,0.7,110,NA,0,NA,0
+"93","Advocate S Suburban","Kapur, Avnit S",2,4.4,655,230.516810666815,55.895,79.0474670688442,111.79
+"94","Advocate S Suburban","Lai, Jessica",45,74.86,943.355555555556,493.711461352385,67.3582222222222,54.713474295597,3031.12
+"95","Advocate S Suburban","Limpert, Jonathan",2,4.8,492,0,50.71,71.7147697479397,101.42
+"96","Advocate S Suburban","Meyer, Karen",5,2.78,123,71.4947550523813,18.28,22.47965413435,91.4
+"97","Advocate S Suburban","Mohazab, Hamid",2,1.97,195.5,135.057395206631,66.945,44.0739656713575,133.89
+"98","Advocate S Suburban","Nydick, Steven M",32,29.8,206.4375,146.0335660708,28.91125,34.2842147209508,925.16
+"99","Advocate S Suburban","Osagiede, Emmanuel",1,2.4,492,NA,0,NA,0
+"100","Advocate S Suburban","Rajmane, Kiran",5,6.14,653.2,151.303337702775,0,0,0
+"101","Advocate S Suburban","Singh, Bhurji N",2,1.94,180.5,137.885822331377,60.28,28.963093757401,120.56
+"102","Advocate Sherman Hosp","Grossman, Stephan",398,616.73,706.949748743719,699.227340743165,93.4843969849246,139.03394876552,37206.79
+"103","Advocate Sherman Hosp","Gvildys, Dalia",280,362.93,542.971428571429,666.482043713808,76.4762142857143,104.484206173655,21413.34
+"104","Advocate Sherman Hosp","Mehta, Ajay",113,93.71,198.676991150442,252.384316855143,43.4286725663717,50.0325753082148,4907.44
+"105","Advocate Sherman Hosp","Raju, Subba",141,100.64,171.758865248227,166.552347013922,29.0957446808511,112.373647706683,4102.5
+"106","Advocate Sherman Hosp","Roberts, Wesley",375,639.68,774.426666666667,688.223594382325,116.134106666667,163.68607789769,43550.29
+"107","Advocate Sherman Hosp","Sampaleanu, Dana",24,14.65,94.2083333333333,30.1704997965068,29.6995833333333,13.8871844202916,712.79
+"108","Advocate Sherman Hosp","Singh, Amitabh",46,34.62,213.869565217391,350.747304334024,38.1971739130435,47.3622047470598,1757.07
+"109","Advocate Sherman Hosp","Yang, Gongyu",302,216.58,152.728476821192,135.000525839991,37.6977152317881,41.999941770388,11384.71
+"110","Amg Evergreen","Rowley, Vincent",1,0.54,94,NA,53.67,NA,53.67
+"111","Amg Irving & Western","Goesel, Christopher L",1,0.54,94,NA,43.56,NA,43.56
+"112","Condell Medical Center","Alexander, Jonathan M",210,340.26,705.480952380952,640.821707932823,86.4961428571429,96.9487755431168,18164.19
+"113","Condell Medical Center","Coury, Christopher A",207,208.54,235.729468599034,173.970883210542,44.8434299516908,48.1749062133364,9282.59
+"114","Condell Medical Center","Foosaner, David E",687,1140.9,504.809315866084,696.968966708337,88.3633042212518,119.306469747513,60705.59
+"115","Condell Medical Center","Han, Phyllis H",357,533,529.016806722689,539.254489282308,79.6940336134454,102.02375251078,28450.77
+"116","Condell Medical Center","Kim, Daniel Y",195,208.8,259.430769230769,238.40693158496,51.8537948717949,51.5398408196056,10111.49
+"117","Condell Medical Center","Manquen/jr, Louis J",382,737.67,930.421465968586,638.197686040256,110.547643979058,153.268620036434,42229.2
+"118","Condell Medical Center","Oberhaus, Jasmina P",410,577.68,481.851219512195,502.651541271162,79.2746341463415,100.137095163885,32502.6
+"119","Condell Medical Center","Papesch, James M",215,239.59,264.425581395349,172.35673055275,58.7033023255814,61.6768274680234,12621.21
+"120","Condell Medical Center","Patzik, Shayle",1998,4491.65,814.404904904905,1323.36786163628,119.418118118118,186.943863383228,238597.4
+"121","Condell Medical Center","Shah, Jai D",1778,4124.08,809.434195725534,1433.0937281072,114.534938132733,189.359060114991,203643.12
+"122","Condell Medical Center","Zartaisky, Alexander",123,121.01,253.422764227642,183.416886440809,49.5040650406504,56.8183117538097,6089
+"123","Good Samaritan Hosp","Bhorade, Rajeev",1390,2281.02,599.954676258993,1045.22976214977,88.2370647482014,123.719058761992,122649.52
+"124","Good Samaritan Hosp","Burstein, Scott",943,1882.88,964.792152704136,1887.64352507902,118.080042417815,168.917578253081,111349.48
+"125","Good Samaritan Hosp","Fanapour, Susan",330,502.8,700.642424242424,678.459335052097,89.5769090909091,110.524591102802,29560.38
+"126","Good Samaritan Hosp","Hampole, Ashwin V",27,28.65,280.62962962963,251.17970094186,58.6811111111111,63.6571101432894,1584.39
+"127","Good Samaritan Hosp","Ibrahim, Saad",1059,1909.89,737.513692162417,1398.69609903612,98.0352974504249,149.41481885844,103819.38
+"128","Good Samaritan Hosp","Jajko, Robert",1327,2363,748.25998492841,1353.54461344728,102.111130369254,146.682307378794,135501.47
+"129","Good Samaritan Hosp","Kim, Josie",626,1271.95,1039.34504792332,673.270674210185,125.904616613419,149.788997575966,78816.29
+"130","Good Samaritan Hosp","Kuppuswami, Sivaraja",2,1.06,71.5,23.3345237791561,19.495,27.5700933984635,38.99
+"131","Good Samaritan Hosp","Lopez, Liza",111,81.15,216.648648648649,155.457661505905,55.1551351351351,57.2870600312761,6122.22
+"132","Good Samaritan Hosp","Schultz, Kurt",110,89.19,185.281818181818,155.36291528613,38.4003636363636,34.5449654831718,4224.04
+"133","Good Samaritan Hosp","Sibai, Sami",18,9.45,93.9444444444444,35.6328866972504,19.3461111111111,18.715798026043,348.23
+"134","Good Samaritan Hosp","Siddiqi, Aheed",84,65.86,187.571428571429,163.620651899615,39.7857142857143,42.617219249877,3342
+"135","Good Samaritan Hosp","Singh, Bhurji",10,5.14,104.1,36.7920583218112,27.082,34.9716484535052,270.82
+"136","Good Samaritan Hosp","Tresley, Jonathan M",55,88.44,681.836363636364,657.845916993524,56.636,68.99622296694,3114.98
+"137","Lutheran Gen Caldwell","Anastos, John",1,2.4,492,NA,143.36,NA,143.36
+"138","Lutheran Gen Caldwell","Bhole, Sonya",11,34.11,1739.36363636364,359.506404039559,159.207272727273,97.3835945209365,1751.28
+"139","Lutheran Gen Caldwell","Devries, Maria",8,22.24,1637.875,355.809514648338,156.44125,91.2198772883411,1251.53
+"140","Lutheran Gen Caldwell","Fagin, Brandie",2,6.2,1614,0,154.975,67.4650579930085,309.95
+"141","Lutheran Gen Caldwell","Jenkins, Richard",2,4.8,492,0,127.29,0,254.58
+"142","Lutheran Gen Caldwell","Messersmith, Richard",2,4.2,696,288.499566724111,131.87,66.9347279071186,263.74
+"143","Lutheran Gen Caldwell","Okrent, David",1,0.85,195,NA,79.44,NA,79.44
+"144","Lutheran Gen Caldwell","Park, Hong",2,4.4,482,14.142135623731,92.19,39.9373910014162,184.38
+"145","Lutheran Gen Caldwell","Strimling, Bradley",3,5.72,673,91.7986928011505,241.496666666667,254.796220798766,724.49
+"146","Lutheran General Hosp","Alsheik, Nila H",120,326.62,1444.60833333333,482.176286599148,100.738333333333,101.726464858763,12088.6
+"147","Lutheran General Hosp","Anastos, John",186,335.15,859.913978494624,680.10146549696,122.870161290323,177.420262654846,22853.85
+"148","Lutheran General Hosp","Bhole, Sonya",684,1704.92,1344.88450292398,566.14198183451,166.328552631579,150.15033157907,113768.73
+"149","Lutheran General Hosp","Devries, Maria",569,1335.81,1214.72759226714,607.97078317843,136.221880492091,142.358441030201,77510.25
+"150","Lutheran General Hosp","Dines, Marshall L",779,1505.08,681.518613607189,915.006945399141,48.3734531450578,97.9374604920071,37682.92
+"151","Lutheran General Hosp","Dombrowski, Paul",148,108.67,206.074324324324,120.371030212865,47.8155405405405,37.0681653813598,7076.7
+"152","Lutheran General Hosp","Fagin, Brandie",421,1067.92,1369.38954869359,508.450826657412,162.962209026128,161.962602604705,68607.09
+"153","Lutheran General Hosp","Geremia, Glen",556,833.87,359.267985611511,208.491540952884,81.257535971223,68.7841019255279,45179.19
+"154","Lutheran General Hosp","Gnegy, Richard",8,6.38,172.625,143.891762396999,42.14375,26.6323884114812,337.15
+"155","Lutheran General Hosp","Jenkins, Richard",3162,6426.55,760.168880455408,1215.54284396324,112.47944971537,170.245559196917,355660.02
+"156","Lutheran General Hosp","Laurent, Elisa",206,127.85,154.291262135922,95.4618177858803,42.3784951456311,44.0680807129646,8729.97
+"157","Lutheran General Hosp","Mcfadden, John",286,174.5,137.604895104895,70.321126898213,46.876013986014,46.8301456087866,13406.54
+"158","Lutheran General Hosp","Messersmith, Richard",2393,4756.7,753.385917258671,1153.83220443937,113.46683660677,168.531763897408,271526.14
+"159","Lutheran General Hosp","Michael, Alexander",309,474.23,362.906148867314,205.680911285572,85.5504207119741,64.6162394812059,26435.08
+"160","Lutheran General Hosp","Okrent, David",153,115.53,208.086928104575,123.48353112695,56.0847712418301,52.5226803150812,8580.97
+"161","Lutheran General Hosp","Okuno, William",199,149.9,207.266331658291,128.926039490467,49.7777386934673,55.8433457997745,9905.77
+"162","Lutheran General Hosp","Park, Hong",3504,6805.12,710.170947488584,1065.63106158132,103.123530251142,155.612007069596,361344.85
+"163","Lutheran General Hosp","Phillips, John",152,119.52,230.052631578947,214.948562751163,52.5161184210526,45.9915298428297,7982.45
+"164","Lutheran General Hosp","Rabin, Barry",485,703.87,550.020618556701,883.943897328096,116.634577319588,280.002206011965,56567.77
+"165","Lutheran General Hosp","Siegfried, Michael",226,142.09,148.62389380531,96.9582506024217,45.2624778761062,47.2483746745684,10229.32
+"166","Lutheran General Hosp","Strimling, Bradley",990,1936.88,1565.14141414141,4766.98141469956,133.67404040404,124.758831179879,132337.3
+"167","Silver Cross Hospital","Edwards, Andre",128,304.84,530.8828125,232.995610823238,97.827265625,93.2549005337879,12521.89
+"168","Silver Cross Hospital","Guajardo/jr, Aaron",1,2.4,459,NA,0,NA,0
+"169","Silver Cross Hospital","Iqbal, Nasir",164,239.61,297.80487804878,119.148660972927,86.0432926829268,70.9734548502904,14111.1
+"170","Silver Cross Hospital","Keblinskas, Darius A",74,164.26,462.837837837838,286.04037587529,108.212162162162,103.413962363403,8007.7
+"171","Silver Cross Hospital","Merchant, Monish",213,596.57,589.300469483568,438.035390843998,80.7639906103286,179.542666691718,17202.73
+"172","Silver Cross Hospital","Patel, Nisha V",54,55.01,225.703703703704,73.2626779883438,5.41296296296296,23.244618093238,292.3
+"173","Silver Cross Hospital","Patel, Vinodrai M",33,39.81,242.969696969697,88.4645002417936,82.45,83.7990103611015,2720.85
+"174","Silver Cross Hospital","Rana, Kuntal",15,24.86,340.533333333333,138.941337398541,21.5286666666667,34.8102295857055,322.93
+"175","Silver Cross Hospital","Singleton, Edward L",138,408.97,605.471014492754,382.503474380079,154.046304347826,154.350251171183,21258.39
+"176","Silver Cross Hospital","Tyler, Jeffry A",85,212.82,561.294117647059,204.009968449806,117.117882352941,143.159000433036,9955.02
+"177","Silver Cross Hospital","Vyas, Ashish",191,477.14,523.884816753927,403.772365950294,83.1550261780105,154.529702785664,15882.61
+"178","Trinity Hospital","Bauer, Richard",67,73.23,433.611940298507,299.356175575633,60.8122388059701,44.4978106993256,4074.42
+"179","Trinity Hospital","Kim, Howard",218,464.42,980.935779816514,679.401794007111,123.324770642202,153.855419689784,26884.8
+"180","Trinity Hospital","Lapat, Kenneth",51,53.46,278.882352941176,180.024736862335,50.6652941176471,47.8451594773365,2583.93
+"181","Trinity Hospital","Mintz, Ari",320,660.16,995.925,689.098302745258,109.563875,108.978598036855,35060.44
+"182","Trinity Hospital","Mohiuddin, Salman",58,118.49,955.051724137931,706.29610664376,77.0010344827586,86.4996139670862,4466.06
+"183","Trinity Hospital","Petrovic, Polina",1,1.1,500,NA,81.38,NA,81.38
+"184","Trinity Hospital","Rowley, Vincent",202,400.04,845.950495049505,693.360952514915,92.1835148514851,100.466859197633,18621.07
+"185","Trinity Hospital","Velan, Prabhu",73,183.38,1204.84931506849,626.289285111407,148.259178082192,158.852280207408,10822.92
