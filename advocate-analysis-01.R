@@ -89,3 +89,9 @@ barplot(sort(site_data_short$collections),
              names.arg =site_data_short$Site.Name, 
             las=1, cex.names = .65, cex.lab=.5, cex.axis = .75)
 
+
+
+
+
+
+
